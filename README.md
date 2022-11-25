@@ -2,4 +2,4 @@
 Tools that can be used to enhance a moodle LMS 
 
 
-[Lumi Desktop] (https://app.lumi.education/)
+[[Lumi Desktop]] (https://app.lumi.education/)
